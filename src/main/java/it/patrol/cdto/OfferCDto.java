@@ -12,9 +12,6 @@ public class OfferCDto {
     @SerializedName("OfferUrl")
     private String offerUrl;
 
-    @SerializedName("DataWKodzieProduktu")
-    private String offerDate;
-
     @SerializedName("Opinion")
     private OpinionCDto opinion;
 

@@ -1,0 +1,267 @@
+{
+  "CzyPominieteDaty": false,
+  "CzyPominieteMiastaWyjazdu": false,
+  "CzyBrakKonfiguracjiDlaPromocji": false,
+  "DaneZFiltrow": {
+    "Sortowanie": {
+      "CzyPoDacie": false,
+      "CzyPoCenie": true,
+      "CzyPoOcenach": false,
+      "CzyPoPolecanych": false,
+      "CzyDesc": false
+    }
+  },
+  "Bloczki": [
+    {
+      "ID": "zante-village_89776",
+      "KodProduktu": "ZTX",
+      "TypWycieczkiWWW": "wypoczynek",
+      "Zdjecie": {
+        "ZdjecieUrl": "//images.r.pl/zdjecia/hotele/glob/1245/zante-village_grecja_zakynthos_1245_101716_149061_410x225.jpg"
+      },
+      "OfertaUrl": "/zakynthos-wczasy/zante-village?data=20190924&liczbaDoroslych=2&liczbaDzieci=1&liczbaPokoi=1&wiekDzieci=0&miastoWyjazdu=warszawa&wyzywienie=all-inclusive",
+      "OfertaUrlDlaGoogla": "/zakynthos-wczasy/zante-village",
+      "DataWKodzieProduktu": "2019-09-24T00:00:00Z",
+      "MiastaWyjazdu": [
+        {
+          "Nazwa": "Gdańsk",
+          "NazwaUrl": "gdansk",
+          "CzyWybrane": false
+        },
+        {
+          "Nazwa": "Katowice",
+          "NazwaUrl": "katowice",
+          "CzyWybrane": false
+        },
+        {
+          "Nazwa": "Poznań",
+          "NazwaUrl": "poznan",
+          "CzyWybrane": false
+        },
+        {
+          "Nazwa": "Warszawa",
+          "NazwaUrl": "warszawa",
+          "CzyWybrane": true
+        },
+        {
+          "Nazwa": "Wrocław",
+          "NazwaUrl": "wroclaw",
+          "CzyWybrane": false
+        }
+      ],
+      "Wyzywienia": [
+        {
+          "Nazwa": "All inclusive",
+          "NazwaUrl": "all-inclusive",
+          "CzyPodstawowe": true
+        }
+      ],
+      "AtrybutyHoteli": [
+        {
+          "NazwaAtrybutu": "Rodzinny",
+          "NazwaUrlAtrybutu": "rodzinny"
+        },
+        {
+          "NazwaAtrybutu": "Międzynarodowe animacje",
+          "NazwaUrlAtrybutu": "miedzynarodowe-animacje"
+        },
+        {
+          "NazwaAtrybutu": "W/blisko centrum",
+          "NazwaUrlAtrybutu": "wblisko-centrum"
+        },
+        {
+          "NazwaAtrybutu": "Wi-Fi",
+          "NazwaUrlAtrybutu": "wi-fi"
+        }
+      ],
+      "AtrybutyProduktow": [
+        {
+          "NazwaAtrybutu": "Bez paszportu",
+          "NazwaUrlAtrybutu": "paszport"
+        },
+        {
+          "NazwaAtrybutu": "Bez wizy",
+          "NazwaUrlAtrybutu": "wiza"
+        },
+        {
+          "NazwaAtrybutu": "City Break",
+          "NazwaUrlAtrybutu": "city-break"
+        }
+      ],
+      "Opinie": {
+        "OcenaOgolna": "4.60",
+        "LiczbaOpinii": 164,
+        "CzyPokazywac": true
+      },
+      "Ceny": [
+        {
+          "PakietId": "89776_2263300_",
+          "HotelWCId": 2263300,
+          "CenaPrzedPromocja": 1550,
+          "CenaAktualna": 1550,
+          "LiczbaDni": 4,
+          "ProcentPromocji": 38,
+          "MiastoWyjazduUrl": "warszawa"
+        }
+      ],
+      "InneDlugosciPobytuWInnychTerminach": true,
+      "FlagiProduktu": {
+        "CzyAlertMaloMiejsc": true,
+        "CzyBezPaszportu": true,
+        "CzyTerminPotwierdzony": null,
+        "CzyLastMinute": false,
+        "CzyRekomendowana": false,
+        "CzyJestFigloklub": false,
+        "CzyPromocjaHappyHours": false,
+        "CzyJestPolskaStrefa": false,
+        "CzyWczasyZRabatem": false,
+        "CzyHotOferta": false,
+        "CzyDreamliner": false,
+        "CzySamolotem": true
+      },
+      "Blok1": {
+        "HotelId": 1245,
+        "NazwaProduktu": null,
+        "NazwaUrlProduktu": "zakynthos-wczasy",
+        "NazwaHotelu": "Zante Village",
+        "NazwaUrlHotelu": "zante-village",
+        "GwiazdkiHotelu": 3.5,
+        "Lokalizacja": [
+          {
+            "NazwaLokalizacji": "Grecja",
+            "NazwaLokalizacjiUrl": "grecja",
+            "CzyRegion": false,
+            "PokazWFiltrzeWWW": true
+          },
+          {
+            "NazwaLokalizacji": "Zakynthos",
+            "NazwaLokalizacjiUrl": "grecja/zakynthos",
+            "CzyRegion": true,
+            "PokazWFiltrzeWWW": true
+          }
+        ]
+      },
+      "DaneZFiltrow": {
+        "CzyCenaZaWszystkich": false,
+        "LiczbaDoroslych": 2,
+        "LiczbaDzieci": 1,
+        "LiczbaPokoi": 1,
+        "WiekiDzieci": [
+          0
+        ]
+      }
+    },
+    {
+      "ID": "villa-andrews_83545",
+      "KodProduktu": "KOS",
+      "TypWycieczkiWWW": "wypoczynek",
+      "Zdjecie": {
+        "ZdjecieUrl": "//images.r.pl/zdjecia/hotele/glob/2724/villa-andrews_grecja_kos_2724_59015_54286_410x225.jpg"
+      },
+      "OfertaUrl": "/kos-wczasy/villa-andrews?data=20190928&liczbaDoroslych=2&liczbaDzieci=1&liczbaPokoi=1&wiekDzieci=0&miastoWyjazdu=warszawa&wyzywienie=all-inclusive",
+      "OfertaUrlDlaGoogla": "/kos-wczasy/villa-andrews",
+      "DataWKodzieProduktu": "2019-09-28T00:00:00Z",
+      "MiastaWyjazdu": [
+        {
+          "Nazwa": "Katowice",
+          "NazwaUrl": "katowice",
+          "CzyWybrane": false
+        },
+        {
+          "Nazwa": "Warszawa",
+          "NazwaUrl": "warszawa",
+          "CzyWybrane": true
+        }
+      ],
+      "Wyzywienia": [
+        {
+          "Nazwa": "All inclusive",
+          "NazwaUrl": "all-inclusive",
+          "CzyPodstawowe": true
+        }
+      ],
+      "AtrybutyHoteli": [
+        {
+          "NazwaAtrybutu": "Rodzinny",
+          "NazwaUrlAtrybutu": "rodzinny"
+        },
+        {
+          "NazwaAtrybutu": "Wi-Fi",
+          "NazwaUrlAtrybutu": "wi-fi"
+        }
+      ],
+      "AtrybutyProduktow": [
+        {
+          "NazwaAtrybutu": "Bez paszportu",
+          "NazwaUrlAtrybutu": "paszport"
+        },
+        {
+          "NazwaAtrybutu": "Bez wizy",
+          "NazwaUrlAtrybutu": "wiza"
+        }
+      ],
+      "Opinie": {
+        "OcenaOgolna": "0",
+        "LiczbaOpinii": 0,
+        "CzyPokazywac": false
+      },
+      "Ceny": [
+        {
+          "PakietId": "83545_2085183_",
+          "HotelWCId": 2085183,
+          "CenaPrzedPromocja": 1649,
+          "CenaAktualna": 1649,
+          "LiczbaDni": 8,
+          "ProcentPromocji": 51,
+          "MiastoWyjazduUrl": "warszawa"
+        }
+      ],
+      "InneDlugosciPobytuWInnychTerminach": true,
+      "FlagiProduktu": {
+        "CzyAlertMaloMiejsc": false,
+        "CzyBezPaszportu": true,
+        "CzyTerminPotwierdzony": null,
+        "CzyLastMinute": false,
+        "CzyRekomendowana": false,
+        "CzyJestFigloklub": false,
+        "CzyPromocjaHappyHours": false,
+        "CzyJestPolskaStrefa": false,
+        "CzyWczasyZRabatem": false,
+        "CzyHotOferta": false,
+        "CzyDreamliner": false,
+        "CzySamolotem": true
+      },
+      "Blok1": {
+        "HotelId": 2724,
+        "NazwaProduktu": null,
+        "NazwaUrlProduktu": "kos-wczasy",
+        "NazwaHotelu": "Villa Andrews",
+        "NazwaUrlHotelu": "villa-andrews",
+        "GwiazdkiHotelu": 3,
+        "Lokalizacja": [
+          {
+            "NazwaLokalizacji": "Grecja",
+            "NazwaLokalizacjiUrl": "grecja",
+            "CzyRegion": false,
+            "PokazWFiltrzeWWW": true
+          },
+          {
+            "NazwaLokalizacji": "Kos",
+            "NazwaLokalizacjiUrl": "grecja/kos",
+            "CzyRegion": true,
+            "PokazWFiltrzeWWW": true
+          }
+        ]
+      },
+      "DaneZFiltrow": {
+        "CzyCenaZaWszystkich": false,
+        "LiczbaDoroslych": 2,
+        "LiczbaDzieci": 1,
+        "LiczbaPokoi": 1,
+        "WiekiDzieci": [
+          0
+        ]
+      }
+    }
+  ]
+}
